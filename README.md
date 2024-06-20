@@ -110,3 +110,10 @@ For any queries or issues, please contact [your email or GitHub profile].
 ---
 
 **Enjoy playing Space Invaders on your Arduino!**
+
+## Screenshots
+
+![](<https://github.com/Ahmadalhomsi/Space-Invaders-Arduino-Proteus/blob/main/Pic/2.png>)
+![](<https://github.com/Ahmadalhomsi/Space-Invaders-Arduino-Proteus/blob/main/Pic/3.png>)
+![](<https://github.com/Ahmadalhomsi/Space-Invaders-Arduino-Proteus/blob/main/Pic/4.png>)
+![](<https://github.com/Ahmadalhomsi/Space-Invaders-Arduino-Proteus/blob/main/Pic/5.png>)
