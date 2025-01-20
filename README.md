@@ -99,18 +99,7 @@ This project is a recreation of the classic Space Invaders game using an Arduino
 - **AlienControl()**: Manages alien movement and behavior.
 - **CheckCollisions()**: Detects and handles collisions between game objects.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any queries or issues, please contact [your email or GitHub profile].
-
----
-
-**Enjoy playing Space Invaders on your Arduino!**
-
+----
 ## Screenshots
 
 ![](<https://github.com/Ahmadalhomsi/Space-Invaders-Arduino-Proteus/blob/main/Pic/2.png>)
